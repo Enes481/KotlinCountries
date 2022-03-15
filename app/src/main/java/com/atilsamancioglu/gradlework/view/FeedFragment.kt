@@ -1,10 +1,11 @@
-package com.atilsamancioglu.gradlework
+package com.atilsamancioglu.gradlework.view
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import com.atilsamancioglu.gradlework.R
 
 
 class FeedFragment : Fragment() {
